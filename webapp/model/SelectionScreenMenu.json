@@ -1,0 +1,23 @@
+{
+    "ShipName":"",
+    "CountryKey":"",
+    "Countries":
+    [
+        {
+        "key":"chile",
+        "text":"Chile"
+        },
+        {
+        "key":"brasil",
+        "text":"Brasil"
+        },
+        {
+        "key":"argentina",
+        "text":"Argentina"
+        },
+        {
+        "key":"colombia",
+        "text":"Colombia"
+        }
+    ]
+}
